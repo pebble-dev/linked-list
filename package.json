@@ -1,6 +1,6 @@
 {
-  "name": "@smallstoneapps/linked-list",
-  "version": "1.4.0",
+  "name": "@rebble/linked-list",
+  "version": "1.5.0",
   "description": "Pebble library for doing linked lists",
   "main": "src/c/linked-list.c",
   "directories": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smallstoneapps/linked-list.git"
+    "url": "git+https://github.com/pebble-dev/linked-list.git"
   },
   "author": "Matthew Tole <pebble@matthewtole.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/smallstoneapps/linked-list/issues"
+    "url": "https://github.com/pebble-dev/linked-list/issues"
   },
-  "homepage": "https://github.com/smallstoneapps/linked-list#readme",
+  "homepage": "https://github.com/pebble-dev/linked-list#readme",
   "pebble": {
     "projectType": "package",
     "sdkVersion": "3",
@@ -30,7 +30,8 @@
       "basalt",
       "chalk",
       "diorite",
-      "emery"
+      "emery",
+      "flint"
     ]
   },
   "files": [

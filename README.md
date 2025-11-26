@@ -1,4 +1,4 @@
-# Linked List [![Build Status](http://img.shields.io/travis/smallstoneapps/linked-list.svg?style=flat-square)](https://travis-ci.org/smallstoneapps/linked-list/)&nbsp;[![npm (scoped)](https://img.shields.io/npm/v/@smallstoneapps/linked-list.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.com/package/@smallstoneapps/linked-list)&nbsp;[![MIT License](http://img.shields.io/badge/license-MIT-lightgray.svg?style=flat-square)](./LICENSE)
+# Linked List [![Build Status](http://img.shields.io/travis/smallstoneapps/linked-list.svg?style=flat-square)](https://travis-ci.org/smallstoneapps/linked-list/)&nbsp;[![npm (scoped)](https://img.shields.io/npm/v/@rebble/linked-list.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.com/package/@rebble/linked-list)&nbsp;[![MIT License](http://img.shields.io/badge/license-MIT-lightgray.svg?style=flat-square)](./LICENSE)
 
 A simple linked list implementation for Pebble apps and watchfaces.
 
@@ -9,7 +9,7 @@ A simple linked list implementation for Pebble apps and watchfaces.
 To install the package to your app, use the pebble tool:
 
 ```
-pebble package install @smallstoneapps/linked-list
+pebble package install @rebble/linked-list
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ pebble package install @smallstoneapps/linked-list
 // This is not a complete example, but should demonstrate the basic usage of
 // the Linked List library.
 
-#include <@smallstoneapps/linked-list/linked-list.h>
+#include <@rebble/linked-list/linked-list.h>
 
 LinkedRoot* root;
 
