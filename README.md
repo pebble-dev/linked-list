@@ -1,4 +1,4 @@
-# Linked List [![Build Status](http://img.shields.io/travis/smallstoneapps/linked-list.svg?style=flat-square)](https://travis-ci.org/smallstoneapps/linked-list/)&nbsp;[![npm (scoped)](https://img.shields.io/npm/v/@rebble/linked-list.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.com/package/@rebble/linked-list)&nbsp;[![MIT License](http://img.shields.io/badge/license-MIT-lightgray.svg?style=flat-square)](./LICENSE)
+# Linked List [![Build Status](https://github.com/pebble-dev/linked-list/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/pebble-dev/linked-list/actions/workflows/ci.yml)&nbsp;[![npm (scoped)](https://img.shields.io/npm/v/@rebble/linked-list.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.com/package/@rebble/linked-list)&nbsp;[![MIT License](http://img.shields.io/badge/license-MIT-lightgray.svg?style=flat-square)](./LICENSE)
 
 A simple linked list implementation for Pebble apps and watchfaces.
 
