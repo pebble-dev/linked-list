@@ -1,3 +1,0 @@
-language: c
-install: ./tests/travis-install.sh
-script: make test
