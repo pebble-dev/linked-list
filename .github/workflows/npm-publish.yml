@@ -35,7 +35,6 @@ jobs:
         uses: astral-sh/setup-uv@v7
       - run: uv tool install pebble-tool
       - run: npm install
-      - run: npm run build
       - run: pebble build
       - name: Update npm
         run: npm install -g npm@latest
